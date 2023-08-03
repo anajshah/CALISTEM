@@ -11,6 +11,7 @@
 		D10A64BC2A79AAA400EBED43 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D10A64BB2A79AAA400EBED43 /* ContentView.swift */; };
 		D10A64BE2A79AAA500EBED43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D10A64BD2A79AAA500EBED43 /* Assets.xcassets */; };
 		D10A64C12A79AAA500EBED43 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D10A64C02A79AAA500EBED43 /* Preview Assets.xcassets */; };
+		D1C5BE802A7C500C001805DB /* Spacecookies file.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D10A64BB2A79AAA400EBED43 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D10A64BD2A79AAA500EBED43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D10A64C02A79AAA500EBED43 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Spacecookies file.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D10A64B92A79AAA400EBED43 /* CALISTEMApp.swift */,
 				D10A64BB2A79AAA400EBED43 /* ContentView.swift */,
+				D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */,
 				D10A64BD2A79AAA500EBED43 /* Assets.xcassets */,
 				D10A64BF2A79AAA500EBED43 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D10A64BC2A79AAA400EBED43 /* ContentView.swift in Sources */,
+				D1C5BE802A7C500C001805DB /* Spacecookies file.swift in Sources */,
 				D10A64BA2A79AAA400EBED43 /* CALISTEMApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
