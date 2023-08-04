@@ -23,8 +23,8 @@ struct Engineering: View {
                         .fontWeight(.black)
                         .multilineTextAlignment(.center)
                         .foregroundColor(customCream)
-                    NavigationLink(destination: Links()) {
-                        Text("Click here for Engineering cources!")
+                    NavigationLink(destination: ContentView()) {
+                        Text("Click here to go back to home!")
                             .font(.title2)
                             .multilineTextAlignment(.center)
                             .foregroundColor(customCream)

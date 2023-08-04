@@ -23,7 +23,7 @@ struct Science: View {
                         .multilineTextAlignment(.center)
                         .foregroundColor(customCream)
                     NavigationLink(destination: ContentView()) {
-                        Text("Click here to go to the home page")
+                        Text("Click here to go back to home!")
                             .font(.title2)
                             .multilineTextAlignment(.center)
                             .foregroundColor(customCream)
