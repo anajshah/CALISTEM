@@ -84,8 +84,8 @@
 			isa = PBXGroup;
 			children = (
 				D10A64B92A79AAA400EBED43 /* CALISTEMApp.swift */,
-				DC96ABC22A7D7F4400C76034 /* Online Resource page.swift */,
 				D10A64BB2A79AAA400EBED43 /* ContentView.swift */,
+				DC96ABC22A7D7F4400C76034 /* Online Resource page.swift */,
 				D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */,
 				33380D152A7D718C00690F8F /* FirstView.swift */,
 				33380D172A7D71FC00690F8F /* SecondView.swift */,

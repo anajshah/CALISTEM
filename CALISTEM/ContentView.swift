@@ -32,12 +32,33 @@ struct ContentView: View {
                                 }
                                 .offset(x:-80, y:10)
                             }
+                            HStack{                            NavigationLink(destination: FirstView()){
+                                Text("Start Quiz")
+                                    .font(.system(size: 30, design: .rounded))
+                                
+                                
+                            }
+                            
+                            
+                            NavigationLink(destination: Online_Resource_page()){
+                                Text("     Resource Page")
+                                    .font(.system(size: 30, design: .rounded))
+                                
+                                    
+                                
+                            }
+                                
+                            }
+                            
+
                         }
                     )
                 
             }
             
         }
+        
+        
     }
 
 }

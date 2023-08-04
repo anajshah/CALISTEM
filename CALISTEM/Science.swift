@@ -22,8 +22,8 @@ struct Science: View {
                         .fontWeight(.black)
                         .multilineTextAlignment(.center)
                         .foregroundColor(customCream)
-                    NavigationLink(destination: Links()) {
-                        Text("Click here for Science cources!")
+                    NavigationLink(destination: ContentView()) {
+                        Text("Click here to go to the home page")
                             .font(.title2)
                             .multilineTextAlignment(.center)
                             .foregroundColor(customCream)
