@@ -26,6 +26,7 @@
 		D10A64BE2A79AAA500EBED43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D10A64BD2A79AAA500EBED43 /* Assets.xcassets */; };
 		D10A64C12A79AAA500EBED43 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D10A64C02A79AAA500EBED43 /* Preview Assets.xcassets */; };
 		D1C5BE802A7C500C001805DB /* Spacecookies file.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */; };
+		DC96ABC32A7D7F4400C76034 /* Online Resource page.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC96ABC22A7D7F4400C76034 /* Online Resource page.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		D10A64BD2A79AAA500EBED43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D10A64C02A79AAA500EBED43 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Spacecookies file.swift"; sourceTree = "<group>"; };
+		DC96ABC22A7D7F4400C76034 /* Online Resource page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Online Resource page.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				D10A64B92A79AAA400EBED43 /* CALISTEMApp.swift */,
+				DC96ABC22A7D7F4400C76034 /* Online Resource page.swift */,
 				D10A64BB2A79AAA400EBED43 /* ContentView.swift */,
 				D1C5BE7F2A7C500C001805DB /* Spacecookies file.swift */,
 				33380D152A7D718C00690F8F /* FirstView.swift */,
@@ -197,6 +200,7 @@
 				33380D302A7D73BE00690F8F /* Links.swift in Sources */,
 				33380D242A7D726800690F8F /* EightView.swift in Sources */,
 				33380D222A7D725800690F8F /* SeventhView.swift in Sources */,
+				DC96ABC32A7D7F4400C76034 /* Online Resource page.swift in Sources */,
 				D10A64BA2A79AAA400EBED43 /* CALISTEMApp.swift in Sources */,
 				33380D2E2A7D72AF00690F8F /* Math.swift in Sources */,
 			);
